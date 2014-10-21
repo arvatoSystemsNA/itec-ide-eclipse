@@ -1,6 +1,6 @@
 # @title ITEC Java Clean up rules
 # @description Enables the ITEC Java cleanup profile
-# @task_type LASTMOD
+# @task_type RECONCILE
 #
 # Created by the Workspace Mechanic Preference Recorder
 #Sun Oct 19 21:33:38 EDT 2014
