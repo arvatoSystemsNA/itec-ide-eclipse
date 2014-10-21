@@ -1,0 +1,8 @@
+# @title ITEC Java editor settings
+# @description Configures favorite static members
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Sun Oct 19 21:56:59 EDT 2014
+file_export_version=3.0
+/instance/org.eclipse.jdt.ui/content_assist_favorite_static_members=com.arvatosystems.us.hybris.core.lang.DBC.*;com.arvatosystems.us.hybris.core.concurrent.ConcurrencyUtils.*;com.arvatosystems.us.hybris.core.util.ConditionTemplate.*;org.hamcrest.CoreMatchers.*;org.hamcrest.Matchers.*;org.junit.*;org.junit.Assert.*;org.junit.Assume.*;org.junit.matchers.JUnitMatchers.*;org.mockito.Matchers.*;org.mockito.Mockito.*

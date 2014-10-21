@@ -1,0 +1,9 @@
+# @title ITEC Text Editor settings
+# @description Displayes the print margin at 130
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Sun Oct 19 21:54:09 EDT 2014
+file_export_version=3.0
+/instance/org.eclipse.ui.editors/printMargin=true
+/instance/org.eclipse.ui.editors/printMarginColumn=130

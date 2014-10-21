@@ -1,0 +1,17 @@
+{
+  type : 'com.google.eclipse.mechanic.UriTaskProviderModel',
+  metadata : {
+    name: 'ITEC Workspace Mechanic Tasks',
+    description: 'ITEC standard workspace settings for the Workspace Mechanic of Eclipse',
+    contact: 'itec@arvatosystems.com'
+  },  
+  tasks: [
+    'itec-java_clean_up.epf',
+    'itec-java_code_formatter.epf',
+    'itec-java_code_templates.epf',
+    'itec-java_compiler.epf',
+    'itec-java_save_actions.epf',
+    'itec-java-editor.epf',
+    'itec-text_editor.epf'
+  ]
+}
