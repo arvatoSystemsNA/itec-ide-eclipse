@@ -1,5 +1,5 @@
 # @title ITEC Java compiler version
-# @description Sets the compiler compliance to use Java 7
+# @description Sets the compiler compliance to use a specific Java version
 # @task_type RECONCILE
 #
 # Created by the Workspace Mechanic Preference Recorder
