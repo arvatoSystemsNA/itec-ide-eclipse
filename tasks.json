@@ -6,12 +6,20 @@
     contact: 'itec@arvatosystems.com'
   },  
   tasks: [
+	'itec-css_editor.epf',
+	'itec-html_editor.epf',
     'itec-java_clean_up.epf',
     'itec-java_code_formatter.epf',
     'itec-java_code_templates.epf',
+    'itec-java_compiler-problem.epf',
     'itec-java_compiler.epf',
+    'itec-java_editor.epf',
     'itec-java_save_actions.epf',
-    'itec-java-editor.epf',
-    'itec-text_editor.epf'
+	'itec-javascript_clean_up.epf',
+	'itec-javascript_code_formatter.epf',
+	'itec-javascript_code_templates.epf',
+	'itec-javascript_save_actions.epf',
+    'itec-text_editor.epf',
+    'itec-xml_editor.epf'
   ]
 }

@@ -1,0 +1,8 @@
+# @title ITEC HTML editor
+# @description Update line width to 130.
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Wed Oct 22 13:17:51 EDT 2014
+file_export_version=3.0
+/instance/org.eclipse.wst.html.core/lineWidth=130

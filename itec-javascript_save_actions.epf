@@ -1,0 +1,12 @@
+# @title ITEC JavaScript Save Actions
+# @description Format source code upon saving
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Wed Oct 22 13:12:32 EDT 2014
+/instance/org.eclipse.wst.jsdt.ui/sp_cleanup.on_save_use_additional_actions=true
+file_export_version=3.0
+/instance/org.eclipse.wst.jsdt.ui/sp_cleanup.remove_unnecessary_nls_tags=true
+/instance/org.eclipse.wst.jsdt.ui/editor_save_participant_org.eclipse.wst.jsdt.ui.postsavelistener.cleanup=true
+/instance/org.eclipse.wst.jsdt.ui/sp_cleanup.format_source_code=true
+/instance/org.eclipse.wst.jsdt.ui/sp_cleanup.remove_trailing_whitespaces=true

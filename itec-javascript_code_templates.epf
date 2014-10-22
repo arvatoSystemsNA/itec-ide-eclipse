@@ -1,0 +1,8 @@
+# @title ITEC JavaScript Code Templates
+# @description Removes redundant auto-generated comments for getters/setters. Removes redundant @author comment (will be more accurately captured by the SCVS).
+# @task_type RECONCILE
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Wed Oct 22 13:06:20 EDT 2014
+file_export_version=3.0
+/instance/org.eclipse.wst.jsdt.ui/org.eclipse.wst.jsdt.ui.text.custom_code_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates><template autoinsert\="false" context\="org.eclipse.jsdt.gettercomment_context" deleted\="false" description\="Comment for getter function" enabled\="true" id\="org.eclipse.wst.jsdt.ui.text.codetemplates.gettercomment" name\="gettercomment"/><template autoinsert\="false" context\="org.eclipse.jsdt.settercomment_context" deleted\="false" description\="Comment for setter function" enabled\="true" id\="org.eclipse.wst.jsdt.ui.text.codetemplates.settercomment" name\="settercomment"/><template autoinsert\="false" context\="org.eclipse.jsdt.filecomment_context" deleted\="false" description\="Comment for created JavaScript files" enabled\="true" id\="org.eclipse.wst.jsdt.ui.text.codetemplates.filecomment" name\="filecomment"/><template autoinsert\="false" context\="org.eclipse.jsdt.typecomment_context" deleted\="false" description\="Comment for created types" enabled\="true" id\="org.eclipse.wst.jsdt.ui.text.codetemplates.typecomment" name\="typecomment">/**\n * ${tags}\n */</template><template autoinsert\="false" context\="org.eclipse.jsdt.overridecomment_context" deleted\="false" description\="Comment for overriding functions" enabled\="true" id\="org.eclipse.wst.jsdt.ui.text.codetemplates.overridecomment" name\="overridecomment"/></templates>
