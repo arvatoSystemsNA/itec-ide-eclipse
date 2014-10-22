@@ -1,5 +1,5 @@
 # @title ITEC Java Code Templates
-# @description Sets code template settings
+# @description Removes redundant auto-generated comments for getters/setters. Removes redundant @author comment (will be more accurately captured by the SCVS). Provides a better template for error handling.
 # @task_type RECONCILE
 #
 # Created by the Workspace Mechanic Preference Recorder

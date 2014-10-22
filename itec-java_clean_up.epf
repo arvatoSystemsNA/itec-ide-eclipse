@@ -1,5 +1,5 @@
-# @title ITEC Java Clean up rules
-# @description Enables the ITEC Java cleanup profile
+# @title ITEC Java Clean Up
+# @description Clean up rules such as formatting source code, organizing imports, removing unused code and adding missing annotations.
 # @task_type RECONCILE
 #
 # Created by the Workspace Mechanic Preference Recorder

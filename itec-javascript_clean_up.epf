@@ -1,6 +1,6 @@
 # @title ITEC JavaScript Clean Up
-# @description ITEC JavaScript Clean Up profile
-# @task_type LASTMOD
+# @description Automatically format source code when saving.
+# @task_type RECONCILE
 #
 # Created by the Workspace Mechanic Preference Recorder
 #Wed Oct 22 12:58:50 EDT 2014
