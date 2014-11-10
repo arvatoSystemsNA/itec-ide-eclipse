@@ -34,4 +34,4 @@ file_export_version=3.0
 # /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.unusedLocal=error
 # /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.unusedObjectAllocation=error
 # /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.unusedParameter=warning
-# /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.unusedPrivateMember=error
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.unusedPrivateMember=error
