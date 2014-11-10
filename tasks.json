@@ -11,7 +11,7 @@
     'itec-java_clean_up.epf',
     'itec-java_code_formatter.epf',
     'itec-java_code_templates.epf',
-    
+    'itec-java_compiler_problem.epf',
     'itec-java_compiler.epf',
     'itec-java_editor.epf',
     'itec-java_save_actions.epf',
