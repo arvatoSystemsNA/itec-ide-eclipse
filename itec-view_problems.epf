@@ -1,6 +1,6 @@
 # @title ITEC Problems View configuration
 # @description Configures the problems view to only show problems of the current selection and its children.
-# @task_type RECONCILE
+# @task_type LASTMOD
 #
 # Created by the Workspace Mechanic Preference Recorder
 #Wed Nov 12 10:28:05 EST 2014
