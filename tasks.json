@@ -20,7 +20,6 @@
 	'itec-javascript_code_templates.epf',
 	'itec-javascript_save_actions.epf',
     'itec-text_editor.epf',
-	'itec-view_problems.epf',
     'itec-xml_editor.epf'
   ]
 }
